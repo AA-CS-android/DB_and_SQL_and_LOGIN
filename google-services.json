@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401509931819",
+    "project_id": "db-and-sql-and-login",
+    "storage_bucket": "db-and-sql-and-login.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401509931819:android:5075a87b54843e6033036e",
+        "android_client_info": {
+          "package_name": "com.example.db_and_sql_and_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDGP8V9eYp3pBBKkB7u4a_1qwQu9EzHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
